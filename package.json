@@ -1,0 +1,19 @@
+{
+  "name": "fresh-start",
+  "version": "1.0.0",
+  "description": "Create a clean webpack setup for future use",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "Erich Gaul",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
